@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cxnnate
 - 👀 I’m interested in machine learning systems, natural language processing, social network analysis and much, much more
-- 🌱 I’m currently building a system to take Twitter accounts and distinguisg real users from social spambots
+- 🌱 I’m currently building a system to take Twitter accounts and distinguishing real users from social spambots
 - 💞️ I’m looking to collaborate on anything cool 😃
 - 📫 How to reach me at cxnnate@gmail.com
 
