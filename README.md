@@ -1,5 +1,5 @@
 - 👋 hi, I’m nate
-- 👀 currently, I'm a data/software engineer at Carnegie Mellon University that builds prototypes AI/ML edge systems.
+- 👀 i'm a data/software engineer at carnegie mellon that builds prototype AI/ML edge systems.
 - 🌱 just trying to build cool stuff
 - 💞️ i’m looking to collaborate on anything cool 😃
 - 📫 hit me up at cxnnate@gmail.com
